@@ -26,6 +26,7 @@ namespace Mod
 }
 
 Then paste this into your "mod.json"
+
 {
   "Name": "MyGreatMod",
   "Author": "EythenMakes",
@@ -36,6 +37,12 @@ Then paste this into your "mod.json"
   "EntryPoint": "Mod.Mod",
   "Tags": [],
   "Scripts": [
+    "main.cs"
+  ],
+  "Active": true,
+  "UGCIdentity": null,
+  "CreatorUGCIdentity": "2622291045"
+}
     "main.cs"
   ],
   "Active": true,

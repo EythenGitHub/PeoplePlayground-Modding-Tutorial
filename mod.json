@@ -1,0 +1,16 @@
+{
+  "Name": "MyGreatMod",
+  "Author": "EythenMakes",
+  "Description": "Youtube tutorial",
+  "ModVersion": "1.0",
+  "GameVersion": "1.14+",
+  "ThumbnailPath": ".png",
+  "EntryPoint": "Mod.Mod",
+  "Tags": [],
+  "Scripts": [
+    "main.cs"
+  ],
+  "Active": true,
+  "UGCIdentity": null,
+  "CreatorUGCIdentity": "2622291045"
+}
